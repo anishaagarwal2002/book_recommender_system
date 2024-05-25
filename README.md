@@ -39,6 +39,9 @@ The third step was to do Collaborative Filtering - Memory based approach was our
 
 • Memory Based approach - Cosine Similarity
 
+# Web Application for book recommendation system
+We are using the pycharm community to deploy the website. Flask provides configuration and conventions, with sensible defaults, to get started. This section of the documentation explains the different parts of the Flask framework and how they can be used, customized, and extended. 
+
 # Conclusion
 Among top 20 Authors the highest number of books has been hold by Agatha Christie. Agatha Christie is leading at top with more than 600 counts, followed by William Shakespeare.
 
